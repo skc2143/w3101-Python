@@ -1,0 +1,13 @@
+2014: quan: total=247,395 prices: max = 97.81 min = 73.64 avg = 73.64
+2013: quan: total=230,311 prices: max = 73.64 min = 90.21 avg = 91.33
+2012: quan: total=223,393 prices: max = 109.62 min = 73.64 avg = 95.09
+2011: quan: total=280,927 prices: max = 108.0 min = 99.72 avg = 104.16
+2010: quan: total=283,572 prices: max = 109.62 min = 72.09 avg = 79.79
+2009: quan: total=279,317 prices: max = 108.0 min = 79.79 avg = 73.14
+2008: quan: total=320,054 prices: max = 124.58 min = 49.87 avg = 49.87
+2007: quan: total=297,836 prices: max = 108.0 min = 66.74 avg = 82.82
+2006: quan: total=293,645 prices: max = 124.58 min = 49.87 avg = 53.84
+2005: quan: total=314,259 prices: max = 108.0 min = 53.84 avg = 49.79
+2004: quan: total=320,586 prices: max = 124.58 min = 28.57 avg = 36.46
+2003: quan: total=314,131 prices: max = 108.0 min = 36.46 avg = 27.17
+2002: quan: total=284,170 prices: max = 124.58 min = 16.29 avg = 24.15
